@@ -12,6 +12,7 @@
     "react-scripts": "3.3.0",
     "redux": "^4.0.5"
   },
+  "homepage": "https://chow1027.xyz/react-redux-demo-2/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
